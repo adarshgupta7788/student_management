@@ -1,0 +1,4 @@
+12456789|Babban |19|B-tech|96
+123456789|Babban|19|B.tech|85
+859674568|Ved|19|B.tech|96
+8597465|HCL|18|B.pharma|99
